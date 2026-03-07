@@ -1,2 +1,1 @@
-# Asmae627
-🎓 Étudiante en 2ème année préparatoire en Ingénierie Digitale &amp; Intelligence Artificielle   
+Hi, I'm Asmae Oussetta a digital engineering & AI student 
