@@ -22,6 +22,19 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Asmae627&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmae627&theme=radical"/>
+</p>
+
+---
+
+## 🖼️ Illustration
+
+<p align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</p>
 
 >
