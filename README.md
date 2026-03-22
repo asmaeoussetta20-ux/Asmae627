@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,raspberrypi,opencv,tensorflow" />
 ---
 
 ## 🛠️ Languages & Tools
