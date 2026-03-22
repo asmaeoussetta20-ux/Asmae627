@@ -23,19 +23,14 @@
 
 ---
 
-## Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Asmae627&theme=tokyonight" />
-</p>
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaeoussetta&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaeoussetta&layout=compact&theme=tokyonight" />
-</p>
 
----
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmaeoussetta20-ux&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaeoussetta20-ux&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=asmaeoussetta&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=asmaeoussetta20-ux&theme=tokyonight" />
 </p>
