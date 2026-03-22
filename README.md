@@ -24,7 +24,10 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,raspberrypi,opencv,tensorflow" />
+## 👩‍💻 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,kali,git,github" />
+</p>
 ---
 
 ## 🛠️ Languages & Tools
