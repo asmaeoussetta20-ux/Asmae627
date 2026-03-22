@@ -17,11 +17,28 @@
 - 💬 Ask me about **Python, Linux, CTF**
 
 ---
+## 📚 Currently Learning
 
+- 🛡️ Web Security (XSS, SQLi, SSRF)
+- 🧪 Penetration Testing
+- 🐧 Advanced Linux
+- 🏴‍☠️ CTF Challenges
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Asmae627/Asmae627/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 ##  Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,ubuntu,kali,git,github,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light"/>
 </p>
+## 🌐 Connect with me
 
+<p align="center">
+<a href="https://www.linkedin.com/in/asmae-oussetta-50a44032a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
 >
