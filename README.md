@@ -24,11 +24,15 @@
 - 🐧 Advanced Linux
 - 🏴‍☠️ CTF Challenges
 
+
+---
 ## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://github.com/Asmae627/Asmae627/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
+
 ---
 ##  Languages & Tools
 <p align="center">
@@ -44,6 +48,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="mailto:asmaeoussetta20@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
