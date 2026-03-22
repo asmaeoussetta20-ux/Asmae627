@@ -31,7 +31,7 @@
 </p>
 ##  Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,ubuntu,kali,git,github,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,matlab,linux,ubuntu,kali,git,github" />
   <img src="https://skillicons.dev/icons?i=python&theme=light"/>
 </p>
 ## 🌐 Connect with me
