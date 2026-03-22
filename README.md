@@ -31,14 +31,18 @@
 </p>
 ##  Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,matlab,linux,ubuntu,kali,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,matlab,linux,ubuntu,git,github" />
   <img src="https://skillicons.dev/icons?i=python&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=kali&theme=light"/>
 </p>
+
 ## 🌐 Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/asmae-oussetta-50a44032a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+<a href="mailto:asmaeoussetta20@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 </p>
->
