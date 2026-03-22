@@ -15,29 +15,19 @@
 
 ---
 
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/asmae-oussetta-50a44032a">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:asmaeoussetta20@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-## 👩‍💻 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,kali,git,github" />
-</p>
----
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,ubuntu,kali,git,github,raspberrypi" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Asmae627&theme=tokyonight" />
+</p>
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asmaeoussetta&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaeoussetta&layout=compact&theme=tokyonight" />
